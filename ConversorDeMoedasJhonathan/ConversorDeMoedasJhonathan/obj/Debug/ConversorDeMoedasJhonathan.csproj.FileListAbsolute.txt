@@ -1,0 +1,10 @@
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\obj\Debug\ConversorDeMoedasJhonathan.csprojAssemblyReference.cache
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\obj\Debug\ConversorDeMoedasJhonathan.Form1.resources
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\obj\Debug\ConversorDeMoedasJhonathan.Properties.Resources.resources
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\obj\Debug\ConversorDeMoedasJhonathan.csproj.GenerateResource.cache
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\obj\Debug\ConversorDeMoedasJhonathan.csproj.CoreCompileInputs.cache
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\bin\Debug\ConversorDeMoedasJhonathan.exe.config
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\bin\Debug\ConversorDeMoedasJhonathan.exe
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\bin\Debug\ConversorDeMoedasJhonathan.pdb
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\obj\Debug\ConversorDeMoedasJhonathan.exe
+C:\Users\JC\Desktop\UNIVALI\ConversorDeMoedasJhonathan\ConversorDeMoedasJhonathan\obj\Debug\ConversorDeMoedasJhonathan.pdb
