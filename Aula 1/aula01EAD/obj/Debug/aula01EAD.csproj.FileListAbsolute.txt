@@ -1,0 +1,20 @@
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\bin\Debug\aula01EAD.exe.config
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\bin\Debug\aula01EAD.exe
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\bin\Debug\aula01EAD.pdb
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\obj\Debug\aula01EAD.csprojAssemblyReference.cache
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\obj\Debug\aula01EAD.Form1.resources
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\obj\Debug\aula01EAD.Properties.Resources.resources
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\obj\Debug\aula01EAD.csproj.GenerateResource.cache
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\obj\Debug\aula01EAD.csproj.CoreCompileInputs.cache
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\obj\Debug\aula01EAD.exe
+C:\Users\Alex Rese\source\repos\aula01EAD\aula01EAD\obj\Debug\aula01EAD.pdb
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\bin\Debug\aula01EAD.exe.config
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\bin\Debug\aula01EAD.exe
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\bin\Debug\aula01EAD.pdb
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\obj\Debug\aula01EAD.csprojAssemblyReference.cache
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\obj\Debug\aula01EAD.Form1.resources
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\obj\Debug\aula01EAD.Properties.Resources.resources
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\obj\Debug\aula01EAD.csproj.GenerateResource.cache
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\obj\Debug\aula01EAD.csproj.CoreCompileInputs.cache
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\obj\Debug\aula01EAD.exe
+C:\Users\JC\Downloads\aula01EAD\aula01EAD\obj\Debug\aula01EAD.pdb
